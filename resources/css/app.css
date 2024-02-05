@@ -1,0 +1,26 @@
+
+body{
+    margin:0;
+    padding:0;
+}
+
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+}
+
+.container{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items:center;
+}
+.nav_draw{
+    width:30vw;
+    border-radius: 10px;
+}
+.draw{
+    width:69vw;
+}
+

@@ -1,0 +1,17 @@
+body{
+    background-color: #e2e6ea;
+    font-style: italic;
+    color: black;
+}
+.nav-brand{
+    font-size:1.5em;
+}
+.nav,.nav-brand{
+    margin:10px 10px 0  0;
+    display:inline-block;
+    text-decoration:none;
+    color: black;
+}
+.nav:hover,.nav-brand:hover{
+    color: #1a1d20;
+}

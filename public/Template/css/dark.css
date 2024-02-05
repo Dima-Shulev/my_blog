@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+    font-style: normal;
+    color: white;
+}
+.nav-brand{
+    font-size:1.5em;
+}
+.nav,.nav-brand{
+    margin:10px 10px 0  0;
+    text-decoration:none;
+    color: white;
+}
+.nav:hover,.nav-brand:hover {
+    color: #8aa4af;
+}
+
+.navbar-toggler-icon{
+    background-color:white;
+}
